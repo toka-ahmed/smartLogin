@@ -1,0 +1,51 @@
+body{
+    font-family: sans-serif;
+    background-color: #24353f;
+}
+.shadow-box{
+ 
+    box-shadow:12px 12px 30px 8px  rgba(0,0,0,0.8) ;
+}
+.form-control{
+    border: 1px solid #ced4da
+}
+::placeholder{
+    color: #808080 !important;
+}
+.form-control:focus{
+    border-color: #17a2b8;
+    box-shadow:none
+}
+
+.header{
+    color: #17a2b8;
+}
+ .submit .btn-outline-danger{
+    color: #17a2b8;
+  
+}
+ .submit .btn:hover {
+    background-color: #17a2b8; 
+     border-color:#17a2b8 ;
+}
+.btn-outline-warning
+{
+    color: rgba(255, 255, 255, 0.5);
+}
+.btn-outline-warning:hover 
+{
+    color: rgba(255, 255, 255, 0.75);
+}
+.home-content p 
+{
+    font-size: 40px;
+    font-weight: 500;
+    color: #17a2b8 ;
+}
+.a-size{
+    font-size: 17px;
+}
+
+
+
+  
